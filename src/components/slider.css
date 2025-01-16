@@ -1,0 +1,41 @@
+/* .swiper-button-next, */
+/* .swiper-button-prev { */
+  /* left: 50%; Center buttons horizontally */
+  /* transform: translateX(-50%); */
+  /* width: 44px; Adjust button size */
+  /* height: 44px; */
+  /* color: #007aff; Button color 
+}
+
+/* .swiper-button-next { */
+  /* top: 90%; Position the next button at the bottom 
+}
+
+/* .swiper-button-prev { */
+  /* top: 10%; Position the previous button at the top 
+}
+
+/* for custom button */
+/* .custom-next,
+.custom-prev {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  color: #007aff;
+  font-size: 20px;
+  cursor: pointer;
+} */
+
+/* .custom-next {
+  bottom: 10px; /* Position at the bottom 
+} */
+
+/* .custom-prev {
+  top: 10px; /* Position at the top 
+} */
+
+
+.swiper-pagination {
+    margin-top: 50px;    
+    margin-right: 57px;
+}
