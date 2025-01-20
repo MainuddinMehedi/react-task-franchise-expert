@@ -37,7 +37,7 @@ const MeetVisionary = () => {
           <button className="h-[57px] w-[300px] bg-[#0077B5] text-white font-semibold text-base rounded-lg">
             LET'S CONNECT ON lINKEDIN
           </button>
-          <img src={assets.linkdin_logo} alt="" />
+          <img src={assets.linkdin_logo} className="cursor-pointer" />
         </div>
       </div>
     </div>

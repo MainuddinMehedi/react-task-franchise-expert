@@ -42,10 +42,6 @@ const Home = () => {
           <GetInTouch />
           <Subscribe />
           <Footer />
-
-          {/* Playing with to figure things out. */}
-          {/* <Try /> */}
-          {/* <Testimonials /> */}
         </SectionSpacingHome>
       </div>
     </div>
